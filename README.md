@@ -20,7 +20,7 @@ The analysis of the election show that:
   - Jefferson County had 10.5% of the votes which translates to 38,855 votes.
   - Denver County had 82.8% of the votes which translates to 306,055 votes.
   - Arapahoe County had 6.7% of the votes which translates to 24,801 votes.
-
+- The county with the largest number of voter was Denver.
 - The candidate results were:
   - Charles Casper Stockahn received 23.0% of the vote which translates to 85,213 votes.
   - Diana DeGette received 73.8% of the vote which translates 272,892 votes.
