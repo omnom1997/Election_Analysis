@@ -20,7 +20,7 @@ The analysis of the election show that:
   - Jefferson County had 10.5% of the votes which translates to 38,855 votes.
   - Denver County had 82.8% of the votes which translates to 306,055 votes.
   - Arapahoe County had 6.7% of the votes which translates to 24,801 votes.
-- The county with the largest number of voter was Denver.
+- The county with the largest number of votes was Denver.
 - The candidate results were:
   - Charles Casper Stockahn received 23.0% of the vote which translates to 85,213 votes.
   - Diana DeGette received 73.8% of the vote which translates 272,892 votes.
@@ -35,6 +35,6 @@ The analysis of the election was also printed to a text file and the results are
 ## Election Audit Summary
 This script could be modified to show, if the information is available, how many people voted using the various methods of voting such as mail-in ballot, in-person, or early voting. This can help election officials and election analysts to determine how people are voting and if there is a need for additional infrastructure, such as more in-person voting sites. This can be accomplished by following the same pattern established in the script to find the counties and candidates as well as count each instance of the counties and candidates.
 
-And additional way the code could be modified to show if a run off election is needed if no candidate wins the majority of votes. This could be added to the `if` statement that determines the winning candidate, pictured below.
+And additional way the code could be modified to show if a run-off election is needed if no candidate wins the majority of votes. This could be added to the `if` statement that determines the winning candidate, pictured below.
 
 ![Screenshot 2022-11-09 163417](https://user-images.githubusercontent.com/114427019/200964801-0c1e5da1-3867-4d36-a620-14fced15d44c.png)
